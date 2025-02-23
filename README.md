@@ -1,2 +1,2 @@
 # PrinShoot
-a game 2d shooter game 
+Guys if u want to play this you need pygame 
